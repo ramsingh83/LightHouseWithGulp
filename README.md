@@ -11,6 +11,8 @@ package.jason file to include minimum packages to integarte lighthouse and gulp 
 Run below commands </br>
 
 npm install - to install packages </br>
-npm start - to launch website and run lighthouse.
+npm start - to launch website and run lighthouse. </br>
 
+After successful run it create a report.html in Lighthouse folder.</br>
 
+Report is available at https://github.com/ramsingh83/LightHouseWithGulp/Lighthouse/report.html
