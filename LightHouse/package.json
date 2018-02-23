@@ -1,0 +1,14 @@
+{
+  "name": "gulp-lighthouse-demo",
+  "author": "Ram Singh",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "lighthouse": "^2.x"
+  }
+}
